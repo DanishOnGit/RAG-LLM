@@ -1,0 +1,19 @@
+{
+  "name": "rag-llm",
+  "version": "1.0.0",
+  "description": "A basic RAG implementation using OpenAI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.3.2",
+    "openai": "^4.19.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
